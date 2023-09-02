@@ -9,7 +9,7 @@ CLX was  developed to CloudTech Solutions to  assists   mankind in monitizing th
     
     
    <H2> front-end  USED<H2>
-   <li>PYTHON..
+  .
    <li>html/css---for frontend dev for ui
    <li>js-javascript
    <H3>contact</H3>
